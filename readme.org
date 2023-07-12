@@ -1,0 +1,7 @@
+#+TITLE: GENCO
+#+AUTHOR: Jinghui Hu
+#+EMAIL: hujinghui@buaa.edu.cn
+#+DATE: <2023-07-12 Wed 13:27:29>
+#+STARTUP: overview num indent
+
+* starting here
